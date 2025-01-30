@@ -72,6 +72,7 @@ class CityRepository{
    }
    async getAllCities(filter){
     try {
+        //if we send filter it will return results that matches with filter or else we get all cities
         if(filter.name){
             const cities=await City.findAll({
                 where:{
