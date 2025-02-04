@@ -6,6 +6,7 @@ const {PORT}= require('./config/serverConfig')
 const db=require('./models/index');
 const sequelize=require('sequelize');
 const {City}=require('./models/index');
+const {Airplane}=require('./models/index');
 const ApiRoutes = require('./routes/index');
 const setupAndStart=async ()=>{
 
@@ -27,6 +28,10 @@ const setupAndStart=async ()=>{
     //     });
     //     const airports=await city.getAirports();
     //     console.log(city,airports);
+    await Airplane.create({
+        modelNumber:"Bombardier CRJ"
+
+    })
     })
     
 }
