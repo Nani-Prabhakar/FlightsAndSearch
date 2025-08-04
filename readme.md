@@ -4,11 +4,11 @@
 
 This project is part of a larger microservices architecture. Each service in the ecosystem plays a crucial role in the overall functionality. Explore the related services:
 
-### 🔗 [FlightsAndSearchService](https://github.com/Srinu-Bandlamudi/FlightsAndSearch)
-### 🔗 [EmailReminderService](https://github.com/Srinu-Bandlamudi/EmailReminderService)
-### 🔗 [Auth_Service](https://github.com/Srinu-Bandlamudi/Auth_Service)
-### 🔗 [TicketBookingService](https://github.com/Srinu-Bandlamudi/TicketBookingService)
-### 🔗 [API_Gateway](https://github.com/Srinu-Bandlamudi/API_Gateway)
+### 🔗 [FlightsAndSearchService](https://github.com/Nani-Prabhakar/FlightsAndSearch)
+### 🔗 [EmailReminderService](https://github.com/Nani-Prabhakar/EmailRemainderService)
+### 🔗 [Auth_Service](https://github.com/Nani-Prabhakar/Auth_Service)
+### 🔗 [TicketBookingService](https://github.com/Nani-Prabhakar/TicketBookingService)
+### 🔗 [API_Gateway](https://github.com/Nani-Prabhakar/API_Gateway)
 
 ---
 
